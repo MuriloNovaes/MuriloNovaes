@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Estudante de Ciência da Computação apaixonado por desenvolvimento, automação e cloud.  
-Atualmente focado em projetos com <strong>Python</strong>, <strong>Go</strong>, <strong>AWS</strong> e <strong>RPA</strong>.
+Atualmente focado em projetos com <strong>Python</strong>, <strong>Go</strong>, <strong>Cloud</strong> e <strong>Automação</strong>.
 </p>
 
 ---
