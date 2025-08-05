@@ -10,7 +10,7 @@ Atualmente focado em projetos com <strong>Python</strong>, <strong>Go</strong>, 
 ### 🚀 Projetos em destaque
 
 - 🧠 [**OptiInvest**](https://github.com/MuriloNovaes/OptiInvest): Aplicação que realiza alocação otimizada de investimentos usando o Modelo de Markowitz, séries temporais e programação linear.
-- 🧙 [**DataWizard**](https://github.com/MuriloNovaes/DataWizard):(em andamento) Plataforma inteligente que une RPA, IA e banco de dados para automação de tarefas repetitivas.
+- 📄  [**Resumidor de Currículos com IA – FastAPI**](https://github.com/MuriloNovaes/resumidor_curriculos):(em andamento) API desenvolvida com FastAPI que permite o upload de currículos em PDF, realiza a extração do texto e utiliza um modelo de IA (Hugging Face) para gerar automaticamente um resumo profissional do conteúdo.
   
 - 🦷 **Sistema Laboratório de Prótese** (em andamento): Sistema web desenvolvido para uma Laboratório de Prótese Dentaria, com login, gerenciamento de Clientes e funcionalidades administrativas. Projeto freelancer em desenvolvimento com foco em organização, praticidade e interface intuitiva.
 ---
