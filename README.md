@@ -1,6 +1,6 @@
 # 👨‍💻 Murilo Novaes  
 
-💡 Software Engineering | Cloud Computing | Artificial Intelligence  
+`💡 Software Engineering` &nbsp; `☁️ Cloud Computing` &nbsp; `🤖 Artificial Intelligence`  
 
 🎓 Computer Science student passionate about building solutions in **Python, Go, AWS, FastAPI, and Flask**.  
 🌍 Interested in Cloud, automation, and scalable backend development.  
@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="50" height="50" style="margin: 10px; background:white; padding:8px; border-radius:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" style="margin: 10px;"/>
 </p>
 
 ---
