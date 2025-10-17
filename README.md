@@ -10,7 +10,7 @@
 ## 🚀 Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,go,fastapi,pandas,databricks,flask,aws&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,go,fastapi,flask,aws&perline=5" />
 </p>
 
 ---
