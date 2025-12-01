@@ -2,7 +2,7 @@
 
 `💡 Data Engineering` &nbsp; `☁️ Cloud Computing` &nbsp; `🤖 Artificial Intelligence`  
 
-🎓 Computer Science student passionate about building solutions in **Python,Java,Spring Boot, Go, AWS, FastAPI, and Flask**.  
+🎓 Computer Science student passionate about building solutions in **Python, Java, Spark, Go, AWS, Databricks, and FastAPI**.  
 🌍 Interested in Cloud, automation, and scalable backend development.  
 
 ---
@@ -11,6 +11,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,spring,go,fastapi,flask,aws&perline=5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="48" height="48" />
+
 </p>
 
 ---
