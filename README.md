@@ -17,10 +17,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="48" height="48" />
 </div>
 
-    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iI0ZGMzYyMSIvPgogIDxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMiAxOGwxMi02IDEyIDYtMTIgNi0xMi02em0wIDdsMTIgNiAxMi02bS0yNCA3bDEyIDYgMTItNiIvPgo8L3N2Zz4="
-    width="48" height="48" style="vertical-align: middle;" alt="Databricks (skill-style)" />
-</p>
-
 
 ---
 
