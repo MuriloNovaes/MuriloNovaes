@@ -9,15 +9,14 @@
 
 ## 🚀 Stacks  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,go,fastapi,flask,aws&perline=7" />
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=python,java,spring,go,fastapi,flask,aws" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
-       width="48" height="48" style="vertical-align: middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48" height="48" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"
-       width="48" height="48" style="vertical-align: middle;" />
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="48" height="48" />
+</div>
+
 
 
 ---
