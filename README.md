@@ -3,7 +3,7 @@
 `💡 Data Engineering` &nbsp; `☁️ Cloud Computing` &nbsp; `🤖 Artificial Intelligence`  
 
 🎓 Computer Science student passionate about building solutions in **Python, Java, Spark, PySpark,  Go, AWS, Databricks, SQL**.  
-🌍 Interested in Cloud, automation, and scalable backend development.  
+🌍 Interested in Data engineering, Analytics, Cloud.  
 
 ---
 
