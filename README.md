@@ -48,7 +48,7 @@ Hoje minha atuação é mais voltada para **Análise de Dados**, trabalhando pri
 ## 🛠️ Tecnologias
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=python,java,go,aws" />
+  <img src="https://skillicons.dev/icons?i=python,aws" />
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="48" height="48" />
