@@ -1,6 +1,6 @@
 # 👨‍💻 Murilo Novaes
 
-`📊 Análise de Dados`   `📈 Analytics Engineering (em evolução)`   `☁️ Plataformas de Dados`
+`📊 Engenharia de Dados`   `📈 Analytics Engineer`   `☁️ Data Plataform`
 
 ---
 
